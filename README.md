@@ -33,3 +33,5 @@ The dataset has the below attributes about the every match from season 2008 to 2
 - Use shpaes and icons
 - Advance excel formulas
 - Confidence to design and develop any MIS dashboard
+
+![Image](https://github.com/Sid-TheAnalyst/Analysis-Of-IPL-Dataset/blob/main/IPL_Data_Analysis/Dasboard%20Snap.png)
